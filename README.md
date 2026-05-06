@@ -1,26 +1,20 @@
 dATA sCIENTIST 🧪
 
-🔭 Currently Working On
-Developing advanced Data Science projects with a focus on scalable insights.
+- 🔭 I'm currently working on Data Science Projects.
 
-Building robust pipelines for predictive modeling and data analysis.
+- 🌱 I’m currently learning AI agents and closely monitoring OpenClaw.
 
-🌱 Learning & Research
-Deep diving into AI Agents and autonomous workflows.
+- 👯 I’m looking to collaborate on building LLM models to classify Real-Time Fraud & AML
 
-Closely monitoring and experimenting with OpenClaw developments.
 
-👯 Collaboration Interests
-Looking to partner on LLM-based models for Real-Time Fraud Detection.
 
-Interested in building innovative solutions for Anti-Money Laundering (AML) systems.
+- 💬  about mE:
 
-💬 About Me
-Creative: I enjoy playing guitar to unwind and explore new sounds.
+-       I like to play guitar in free time.
 
-Analytical: I have a passion for puzzles and spend my time mastering chess strategy.
+-       I am very good at puzzles, also chess is one of my favourite games.
 
-Social: I love cooking and hosting meals for my favorite people.
+-       I like to cook ( for my fav ppl ) 
 
-📫 Reach Out
-Email: kadam.pratham98@gmail.com
+- 📫 How to reach me: kadam.pratham98@gmail.com
+
